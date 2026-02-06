@@ -1,0 +1,13 @@
+Explanation of the "Ingredients
+
+"Since we are explaining every function and tool, here is why these five are mandatory for Project 
+
+1:pandas: This is your "Data Accountant." It allows you to load the CSV and perform the mapping/encoding we did for the smoker and sex columns.
+
+numpy: The "Math Engine." It handles the high-speed numerical calculations that run behind the scenes of our model.
+
+matplotlib: The "Draftsman." It provides the basic canvas for all our plots and charts.
+
+seaborn: The "Artist." It sits on top of Matplotlib to create the beautiful Heatmaps and Distribution plots we used.
+
+scikit-learn: The "Scientist." This is the library that contains the LinearRegression algorithm, the train_test_split function, and the scoring metrics ($R^2$ and MAE).
