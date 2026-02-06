@@ -1,5 +1,7 @@
 🏥 Health Insurance Cost Prediction & Analysis📖
+
 Introduction
+
 This project analyzes a healthcare dataset of 1,338 patients to determine the primary drivers of medical insurance costs. By leveraging Multiple Linear Regression, we aim to provide insurance providers with a data-driven approach to risk assessment and premium pricing.
 
 🎯 Project Objectives
